@@ -40,13 +40,6 @@ The **Smart Hospital Management System** is a comprehensive solution built using
 
 ---
 
-## 📷 Dashboard Preview
-
-> ![Dashboard Snapshot](#)  
-> *(Replace with actual image URL or embed screenshot)*
-
----
-
 ## ⚙️ System Architecture
 
 - ERD includes core entities: **Users**, **Patients**, **Doctors**, **Appointments**, and **Beds**
